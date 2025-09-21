@@ -2,7 +2,7 @@
 
 > 🚀 将 API 响应自动转换为 TypeScript 类型定义的智能工具
 
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-19+-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4+-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-38B2AC.svg)](https://tailwindcss.com/)
 
